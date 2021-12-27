@@ -1,1 +1,18 @@
-// TODO
+.container {
+    width: 100%;
+    max-width: 1120px;
+    margin: 0 auto;
+    background-color: var(--background);
+}
+
+.content {
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 2.5rem 0;
+
+    img {
+        width: 238.62px;
+        height: auto;
+    }
+}
